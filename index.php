@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>Daftar Fraksi Keras</h2>
+    <h2>Daftar Fraksi Badut</h2>
     <ul>
         <li>JERUZALEM</li>
         <li>WeTe</li>
